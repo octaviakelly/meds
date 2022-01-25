@@ -1,0 +1,5 @@
+CREATE TABLE meds (id INTEGER PRIMARY KEY, systolic INTEGER);
+
+INSERT INTO meds VALUES(1, 90);
+
+SELECT * FROM meds;
